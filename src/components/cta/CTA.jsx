@@ -1,10 +1,10 @@
 import React from 'react'
-import './cat.css'
+import './cta.css'
 
 const CTA = () => {
     return (
         <div>
-            
+            CTA
         </div>
     )
 }
